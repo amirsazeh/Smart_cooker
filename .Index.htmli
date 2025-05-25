@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>دستگاه غذاساز هوشمند</title>
+  <style>
+    body {
+      font-family: Tahoma, sans-serif;
+      direction: rtl;
+      padding: 20px;
+      background: #f9f9f9;
+      color: #333;
+    }
+    h1 {
+      color: #2c3e50;
+    }
+    p {
+      font-size: 1.1em;
+    }
+    .contact {
+      margin-top: 30px;
+      font-size: 0.9em;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <h1>دستگاه غذاساز هوشمند</h1>
+  <p>یک دستگاه پیشرفته برای تهیه سریع و سالم انواع غذا با استفاده از هوش مصنوعی و فناوری‌های نوین.</p>
+  <div class="contact">
+    <p>برای اطلاعات بیشتر تماس بگیرید:</p>
+    <p>ایمیل: your-email@example.com</p>
+    <p>تلفن: ۰۹۱۲۳۴۵۶۷۸۹</p>
+  </div>
+</body>
+</html>
